@@ -1,0 +1,6 @@
+START OF FILE
+
+hello world
+test test
+
+END OF FILE
